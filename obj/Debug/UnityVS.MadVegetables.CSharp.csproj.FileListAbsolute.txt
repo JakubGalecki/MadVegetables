@@ -1,0 +1,11 @@
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Maelstrom\Documents\MadVegetables\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Maelstrom\Documents\MadVegetables\obj\Debug\UnityVS.MadVegetables.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Maelstrom\Documents\MadVegetables\obj\Debug\Assembly-CSharp.dll
+C:\Users\Maelstrom\Documents\MadVegetables\obj\Debug\Assembly-CSharp.pdb
